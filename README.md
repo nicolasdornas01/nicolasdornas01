@@ -1,17 +1,3 @@
-```text
-mikin@bh:~$ whoami
-mikin
+java, spring, typescript, node, react, mysql, postgres, docker, linux.
 
-mikin@bh:~$ cat stack
-java · spring boot · typescript · javascript · mysql · html/css
-
-mikin@bh:~$ cat modus
-back e front. código na mão, ia de copiloto.
-operação grande não assusta.
-
-mikin@bh:~$ cat contrato
-aberto. sistemas sob encomenda.
--> nicolasdornas01@gmail.com
-
-mikin@bh:~$ _
-```
+nicolasdornas01@gmail.com
