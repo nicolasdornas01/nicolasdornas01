@@ -38,12 +38,3 @@
 | [**Blend-Vendas**](https://github.com/nicolasdornas01/Blend-Vendas) | Sistema de vendas online | TypeScript |
 | [**devbite**](https://github.com/nicolasdornas01/devbite) | Interface de pedidos de lanchonete: cardápio, checkout e admin | HTML · CSS |
 | [**mikin-motors**](https://github.com/nicolasdornas01/mikin-motors) | Site de oficina/concessionária | HTML · CSS |
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasdornas01&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdornas01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
